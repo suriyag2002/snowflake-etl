@@ -1,0 +1,7 @@
+pandas
+boto3
+streamlit
+python-dotenv
+snowflake-connector-python
+groq
+botocore
