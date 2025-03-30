@@ -3,7 +3,9 @@
 ## 🎥 Demo Video
 
 
-[![Watch the Demo](https://streamable.com/i/clsrxl)](https://streamable.com/clsrxl?src=player-page-share)
+
+https://github.com/user-attachments/assets/6e4cddce-deff-4d49-b403-9783179727c8
+
 
 
 
