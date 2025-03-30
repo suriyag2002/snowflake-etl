@@ -42,8 +42,9 @@ This project is a **Streamlit-based web application** that allows users to:
 1. **Clone the Repository**
 bash
 
-git clone https://github.com/suriyag2002/snowflake-etl.git
-cd snowflake-etl
+ git clone https://github.com/suriyag2002/snowflake-etl.git
+
+ cd snowflake-etl
 
 
 2. **Create a virtual environment**
