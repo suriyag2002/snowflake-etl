@@ -1,6 +1,12 @@
 ### ✅ `README.md`
 
----
+## 🎥 Demo Video
+
+<video width="100%" height="auto" controls>
+  <source src="https://raw.githubusercontent.com/suriyag2002/snowflake-etl/main/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## 🚀 **Snowflake ETL Pipeline with AI-Powered Query Generation and S3 Integration**
 
